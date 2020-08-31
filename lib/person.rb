@@ -13,6 +13,6 @@ class Person
 
   def job
     return @job
-    
+
   end
 end
