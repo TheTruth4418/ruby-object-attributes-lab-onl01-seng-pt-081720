@@ -7,7 +7,8 @@ end
 def name
   return @name
 end
-def breed=(breed)
+
+def reed=(breed)
   @breed = breed
 end
 
