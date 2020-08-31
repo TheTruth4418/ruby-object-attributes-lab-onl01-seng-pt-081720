@@ -7,5 +7,5 @@ end
 def name
   return @dog_name
 end
-  
+
 end
